@@ -5,7 +5,6 @@ This repository contains a collection of whitepapers on cutting-edge biotechnolo
 About the BioEngineering Agent
 Agent Architecture
 The BioEngineering Agent is an in-silico research platform that combines:
-
 Molecular dynamics simulations
 Biological pathway analysis
 Literature synthesis
