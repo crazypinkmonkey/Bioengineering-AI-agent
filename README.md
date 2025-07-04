@@ -66,10 +66,10 @@ Automated data analysis pipelines
 
 Structured output generation
 
-Usage 
+Usage - 
 
 The whitepapers are provided in PDF format for easy reading and distribution. They are intended for educational and research purposes to demonstrate the potential of AI-assisted bioengineering research.
 
-Disclaimer
+Disclaimer - 
 
 The content represents theoretical research and forward-looking statements about potential future technologies. The concepts described are for research purposes only and do not constitute medical advice or claims of current capabilitie
